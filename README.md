@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3c24yZng5aXRqYXpzMjA0amtzajF2bXBlcG56eWRheTdhNXk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp"  width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3c24yZng5aXRqYXpzMjA0amtzajF2bXBlcG56eWRheTdhNXk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp"  width="250"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
