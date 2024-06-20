@@ -18,6 +18,16 @@
 <div align = "center"><img src="https://komarev.com/ghpvc/?username=quanghia24&style=flat-square&color=blue" alt=""/> <br> <h1>Hi there 👋</h1></div>
 
 
+---
+
+### :woman_technologist: About Me :
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 <!--
 **quanghia24/quanghia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
