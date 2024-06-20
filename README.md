@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3c24yZng5aXRqYXpzMjA0amtzajF2bXBlcG56eWRheTdhNXk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp"  width="250"/>
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<div align = "center"><img src="https://komarev.com/ghpvc/?username=quanghia24&style=flat-square&color=blue" alt=""/></div>
+<div align = "center"><img src="https://komarev.com/ghpvc/?username=quanghia24&style=flat-square&color=blue" alt=""/> <br> ## Hi there 👋</div>
 
 
 <!--
