@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<iframe src="https://giphy.com/embed/WIQ0N0OUvei1OW1h9Z" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/pudgypenguins-work-computer-working-WIQ0N0OUvei1OW1h9Z">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **quanghia24/quanghia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
