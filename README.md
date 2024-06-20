@@ -23,6 +23,8 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+- :seedling: Get to know me: [![Gmail Badge](https://img.shields.io/badge/-Curriculum%20Vitae-darkgreen?style=flat&logo=Mail&logoColor=white)](https://quanghia24.github.io/myPortfolio/)
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nghia-truong-quang-83697221a/)
 
 <!--
