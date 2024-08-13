@@ -21,7 +21,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :seedling: Get to know me: [![Gmail Badge](https://img.shields.io/badge/-Curriculum%20Vitae-darkgreen?style=flat&logo=Mail&logoColor=white)](https://quanghia24.github.io/myPortfolio/)
 
