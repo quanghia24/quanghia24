@@ -19,13 +19,13 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m ~~working as a Software Engineer and contributing to frontend and backend for building web applications.~~ **jobless**.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I ~~solve problems on Leetcode and read tech articles.~~ **sleep**
 
 - :seedling: Get to know me: [![Gmail Badge](https://img.shields.io/badge/-Curriculum%20Vitae-darkgreen?style=flat&logo=Mail&logoColor=white)](https://quanghia24.github.io/myPortfolio/)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nghia-truong-quang-83697221a/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nghia-truong-quang-83697221a/)
 
 <!--
 **quanghia24/quanghia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
