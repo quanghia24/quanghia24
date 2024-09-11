@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m ~~working as a Software Engineer and contributing to frontend and backend for building web applications.~~ **jobless**.
+- :telescope: I’m ~~working as a Software Engineer and contributing to frontend and backend for building web applications.~~ **depressed**.
 
 - :zap: In my free time, I ~~solve problems on Leetcode and read tech articles.~~ **sleep**
 
