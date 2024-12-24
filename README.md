@@ -1,18 +1,18 @@
 
-
+<!--
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3c24yZng5aXRqYXpzMjA0amtzajF2bXBlcG56eWRheTdhNXk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp"  width="200"/>
 </div>
-<!-- <div id="badges" align="center">
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nghia-truong-quang-83697221a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/quanghia.24">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-</div> -->
+</div>
 
-<div align = "center"><img src="https://komarev.com/ghpvc/?username=quanghia24&style=flat-square&color=blue" alt=""/> <br> <h1>Hi there 👋</h1></div>
+<div align = "center"><img src="https://komarev.com/ghpvc/?username=quanghia24&style=flat-square&color=blue" alt=""/> <br> <h1>Hi there 👋</h1></div> -->
 
 
 ---
