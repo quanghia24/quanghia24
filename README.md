@@ -19,9 +19,9 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m ~~working as a Software Engineer and contributing to frontend and backend for building web applications.~~ **depressed**.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building a web application.
 
-- :zap: In my free time, I ~~solve problems on Leetcode and read tech articles.~~ **sleep**
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 <!-- - :seedling: Get to know me: [![Gmail Badge](https://img.shields.io/badge/-Curriculum%20Vitae-darkgreen?style=flat&logo=Mail&logoColor=white)](https://quanghia24.github.io/myPortfolio/)
 
