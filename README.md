@@ -17,28 +17,38 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: Hi, I'm Quang Nghia :
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building a web application.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
-<!-- - :seedling: Get to know me: [![Gmail Badge](https://img.shields.io/badge/-Curriculum%20Vitae-darkgreen?style=flat&logo=Mail&logoColor=white)](https://quanghia24.github.io/myPortfolio/)
-
+- 🔭 Software Engineer developing full-stack web and mobile apps 
+- 🌱 Studied Computer Science at the Ho Chi Minh City University of Technology, Viet Nam
+- 👯 Currently learning more in-depth about software development and contributing to open-source communities
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nghia-truong-quang-83697221a/)
--->
+
 
 <!--
 **quanghia24/quanghia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Software Engineer developing full-stack web and mobile app 
+- 🌱 Studied [Computer Science](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology) at the Ho Chi Minh City University of Technology, Viet Nam 
+- 👯 Currently learning more about software development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+
+</br>
+</br>
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=quanghia24&show_icons=true&theme=gotham" alt="quanghia24" />
